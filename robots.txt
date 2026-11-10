@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://67speed-viral.vercel.app/sitemap.xml
